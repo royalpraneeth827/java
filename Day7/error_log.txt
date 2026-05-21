@@ -1,0 +1,9 @@
+Error Message: / by zero
+Exception Type: java.lang.ArithmeticException: / by zero
+--------------------------
+Error Message: / by zero
+Exception Type: java.lang.ArithmeticException: / by zero
+--------------------------
+Error Message: / by zero
+Exception Type: java.lang.ArithmeticException: / by zero
+--------------------------
